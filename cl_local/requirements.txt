@@ -3,7 +3,6 @@ dicttoxml
 pdf417gen
 cchardet
 signxml
-hashlib
 suds
 urllib3
 ast
