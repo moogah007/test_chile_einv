@@ -1,3 +1,4 @@
 xmltodict
 dicttoxml
 pdf417gen
+cchardet
