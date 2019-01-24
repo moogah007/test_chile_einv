@@ -3,3 +3,12 @@ dicttoxml
 pdf417gen
 cchardet
 signxml
+base64
+hashlib
+suds
+urllib3
+ast
+pysftp
+num2words
+xlsxwriter
+io
