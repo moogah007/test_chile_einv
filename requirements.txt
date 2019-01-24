@@ -7,4 +7,3 @@ urllib3
 pysftp
 num2words
 xlsxwriter
-io
